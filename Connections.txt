@@ -1,0 +1,16 @@
+Connections:
+
+driver button up -> PD0
+driver button down -> PD1
+
+passenger button up -> PD2
+passenger button down -> PD3
+
+Limit Switch UP -> PD6
+Limit Switch DOWN -> PD7
+
+ON&OFF button -> PF0 "sw2 in tiva"
+Lock button -> PE3
+
+Jamming button -> PB3
+
